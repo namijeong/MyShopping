@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ba54d8f6-f207-47e1-ba24-a3e2943f5fb5",
+    "name": "닌자 블렌더",
+    "checked": false,
+    "createdAt": 1790904304515
+  },
+  {
+    "id": "89b52a7b-adf2-4f08-9869-fcd14479c937",
+    "name": "후추 그라인더",
+    "checked": false,
+    "createdAt": 1790904308556
+  }
+]

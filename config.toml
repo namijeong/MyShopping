@@ -1,0 +1,6 @@
+[client]
+# 우측 상단 Deploy 버튼 등 개발자용 툴바를 숨긴다.
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
